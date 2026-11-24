@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-This project explores digital advertising campaign performance across industries using Microsoft Power BI. The analysis focuses on advertising expenditure, conversions, revenue, profit and Return on Ad Spend (ROAS) to understand industry-level performance and quarterly trends.
+This project explores digital advertising campaign performance across industries using Microsoft Power BI. The analysis focuses on advertising expenditure, conversions, revenue, profit and Return on Ad Spend (ROAS) to understand industry-level performance and quarterly trends. **Note: To download the interactive file go to 📊 [powerBI_project_portfolio folder](https://github.com/kevinpoly99/PowerBI_Project_Portfolio/blob/main/powerBI_project_portfolio.pbix)
 
 ## 🔎 What You'll Find
 

@@ -26,10 +26,10 @@ The dashboard was developed in Power BI while executing main features like Data 
 
 ## 📈 Findings
 
-- **Industry Performance:** Finance recorded the highest revenue and profit, followed by Healthcare and SaaS, while Gaming recorded the lowest financial performance.
-- **Quarterly Trends:** Q4 2024 recorded the highest median conversions. Q4 2025 also showed a noticeable increase, suggesting a potential seasonal pattern worth investigating.
-- **Advertising Investment:** Total advertising expenditure reached $43.5M, with a median CPA of $99.46.
-- **ROAS:** Median Return on Ad Spend varied across industries, with values ranging from approximately 1.1 to 5.7, highlighting differences in advertising returns.
+- **Industry Performance:** Finance recorded the highest revenue and profit, followed by Healthcare and SaaS. Gaming recorded the lowest financial performance.
+- **Quarterly Trends:** Q4 2024 recorded the highest median conversions, reaching approximately 40. Q4 2025 also showed a noticeable increase, reaching approximately 37.
+- **Advertising Investment:** Total advertising expenditure reached $18.0M, with a median CPA of $124.97.
+- **ROAS:** Median Return on Ad Spend varied across industries, ranging from 1.0 to 5.3, highlighting differences in advertising returns.
 
 ## 🛠️ Tools & Technologies
 

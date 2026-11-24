@@ -14,7 +14,7 @@ This project explores digital advertising campaign performance across industries
 
 ## 🎯 Project Goal
 
-The objective was to understand which industries demonstrate stronger advertising performance, and to showcase my skill and expertise on PowerBI tool.
+The objective was to understand which industries demonstrate stronger advertising performance and to showcase my skills and expertise on PowerBI tool.
 
 The dashboard is intended to provide insights that could help marketing analysts and advertising agencies evaluate campaign performance and support data-informed decisions.
 

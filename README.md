@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-This project explores digital advertising campaign performance across six industries using Microsoft Power BI. The analysis focuses on advertising expenditure, conversions, revenue, profit and Return on Ad Spend (ROAS) to understand industry-level performance and quarterly trends.
+This project explores digital advertising campaign performance across industries using Microsoft Power BI. The analysis focuses on advertising expenditure, conversions, revenue, profit and Return on Ad Spend (ROAS) to understand industry-level performance and quarterly trends.
 
 ## 🔎 What You'll Find
 
@@ -14,7 +14,7 @@ This project explores digital advertising campaign performance across six indust
 
 ## 🎯 Project Goal
 
-The objective was to understand which industries demonstrate stronger advertising performance, identify quarterly conversion patterns, and evaluate how advertising expenditure relates to revenue and profitability.
+The objective was to understand which industries demonstrate stronger advertising performance, and to showcase my skill and expertise on PowerBI tool.
 
 The dashboard is intended to provide insights that could help marketing analysts and advertising agencies evaluate campaign performance and support data-informed decisions.
 
@@ -22,7 +22,7 @@ The dashboard is intended to provide insights that could help marketing analysts
 
 The analysis uses a digital advertising campaign dataset containing information across multiple industries, campaign performance metrics and financial indicators.
 
-The dashboard was developed in Power BI, with Power Query used to prepare the dataset by modifying data types, removing unnecessary columns and updating column headings.
+The dashboard was developed in Power BI while executing main features like Data Visualization and Power Query that is used to prepare the dataset by modifying data types, removing unnecessary columns and updating column headings.
 
 ## 📈 Findings
 
@@ -36,7 +36,7 @@ The dashboard was developed in Power BI, with Power Query used to prepare the da
 | Tool | Application |
 |---|---|
 | Microsoft Power BI | Data visualization and interactive dashboard development |
-| Power Query | Data preparation and transformation |
+| Power Query | Data cleaning and transformation |
 
 ## 💡 Conclusion & Learnings
 
